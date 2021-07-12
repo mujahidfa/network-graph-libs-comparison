@@ -33,7 +33,7 @@
 </template>
 
 <script>
-import { colors } from "./constants.js";
+import { colors } from "./constants";
 
 export default {
   data() {
